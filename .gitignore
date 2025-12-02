@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Test result outputs
+reports/
+
+# file test
+ex.js
+
+# Optional: OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Optional: Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Optional: Environment files
+.env
+.env.local
+.env.*.local
